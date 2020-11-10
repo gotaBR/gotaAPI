@@ -1,0 +1,26 @@
+{
+  "residencialPadrao": {
+    "categoria": "Residencial Padrão",
+    "faixasDeConsumo": [0, 7, 13, 20, 30, 45],
+    "valorFixo": 8.0,
+    "aliquotas": [0, 2.99, 3.59, 7.10, 10.66, 17.05, 23.87]
+  },
+  "residencialSocial": {
+    "categoria": "Residencial Social",
+    "faixasDeConsumo": [0, 7, 13, 20, 30, 45],
+    "valorFixo": 4.0,
+    "aliquotas": [0, 1.49, 1.79, 3.55, 5.33, 17.05, 23.87]
+  },
+  "comercialIndustrialPublica": {
+    "categoria": "Comercial, Industrial e Pública",
+    "faixasDeConsumo": [0, 4, 7, 10, 40],
+    "valorFixo": 21.0,
+    "aliquotas": [0, 6.14, 7.68, 9.98, 12.48, 14.97]
+  },
+  "Paisagismo": {
+    "categoria": "Paisagismo",
+    "faixasDeConsumo": [0, 4, 7, 10, 40],
+    "valorFixo": 31.50,
+    "aliquotas": [0, 9.21, 11.52, 14.97, 18.92, 22.46]
+  }
+}

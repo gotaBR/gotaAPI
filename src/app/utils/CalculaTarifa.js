@@ -10,7 +10,7 @@ function CalculaTarifa(dados, consumo) {
   function VerificaFaixaAtual() {
     for (let i = 0; i < quantidadeDeFaixas; i += 1) {
       if (i === quantidadeDeFaixas - 1) {
-        faixaAtual = i + 1;
+        faixaAtual = i;
         break;
       } else if (consumo > faixasDeConsumo[i] && consumo <= faixasDeConsumo[i + 1]) {
         faixaAtual = i;
@@ -21,7 +21,7 @@ function CalculaTarifa(dados, consumo) {
 
   function CalculaPrecoPorFaixa() {
     const precoPorFaixa = [0];
-    for (let i = 1; i < quantidadeDeAliquotas; i += 1) {
+    for (let i = 0; i < quantidadeDeAliquotas; i += 1) {
       precoPorFaixa.push(aliquotas[i] * (faixasDeConsumo[i + 1] - faixasDeConsumo[i]));
     }
     return precoPorFaixa;
@@ -29,7 +29,7 @@ function CalculaTarifa(dados, consumo) {
 
   function CalculaPrecoTotalFaixas(faixaAtual, precoPorFaixa) {
     let precoTotalFaixas = 0;
-    for (let i = 1; i < faixaAtual; i += 1) {
+    for (let i = 0; i <= faixaAtual; i += 1) {
       precoTotalFaixas += precoPorFaixa[i];
     }
     return precoTotalFaixas;
@@ -41,9 +41,14 @@ function CalculaTarifa(dados, consumo) {
   }
 
   VerificaFaixaAtual();
+  console.log(faixaAtual);
   const precoPorFaixa = CalculaPrecoPorFaixa();
+  console.log(precoPorFaixa);
   const precoTotalFaixas = CalculaPrecoTotalFaixas(faixaAtual, precoPorFaixa);
+  console.log(precoTotalFaixas);
   const valorVariavel = CalculaValorVariavel(faixaAtual, precoTotalFaixas);
+  console.log(valorVariavel);
+  console.log(valorFixo);
   const tarifa = valorFixo + valorVariavel;
 
   return tarifa;

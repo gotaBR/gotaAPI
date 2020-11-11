@@ -1,9 +1,10 @@
 // Função que calcula tarifa.
 function CalculaTarifa(dados, consumo) {
-  const { valorFixo } = dados.empresa[0].categorias.residencialPadrao;
-  const { aliquotas } = dados.empresa[0].categorias.residencialPadrao;
+  console.log(dados);
+  const { valorFixo } = dados.categorias.residencialPadrao;
+  const { aliquotas } = dados.categorias.residencialPadrao;
   const quantidadeDeAliquotas = aliquotas.length;
-  const { faixasDeConsumo } = dados.empresa[0].categorias.residencialPadrao;
+  const { faixasDeConsumo } = dados.categorias.residencialPadrao;
   const quantidadeDeFaixas = faixasDeConsumo.length;
   let faixaAtual = 0;
 
@@ -21,7 +22,7 @@ function CalculaTarifa(dados, consumo) {
 
   function CalculaPrecoPorFaixa() {
     const precoPorFaixa = [0];
-    for (let i = 0; i < quantidadeDeAliquotas; i += 1) {
+    for (let i = 0; i < quantidadeDeAliquotas - 1; i += 1) {
       precoPorFaixa.push(aliquotas[i] * (faixasDeConsumo[i + 1] - faixasDeConsumo[i]));
     }
     return precoPorFaixa;

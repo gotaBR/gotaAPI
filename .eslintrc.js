@@ -11,7 +11,7 @@ module.exports = {
     ecmaVersion: 12,
   },
   rules: {
-    'no-console': 'off',
+    // 'no-console': 'off',
     'global-require': 'off',
     'import/no-dynamic-require': 'off',
     'max-len': 'off',

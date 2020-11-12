@@ -1,6 +1,8 @@
 {
   "empresa": [
     {
+      "ultimaModificacao": "01-06-2020",
+      "validoAte": "31-05-2021",
       "listaDeMunicipios": "todos",
       "categorias": {
         "residencialPadrao": {
@@ -21,7 +23,7 @@
           "valorFixo": 21.0,
           "aliquotas": [6.14, 7.68, 9.98, 12.48, 14.97]
         },
-        "Paisagismo": {
+        "paisagismo": {
           "categoria": "Paisagismo",
           "faixasDeConsumo": [0, 4, 7, 10, 40],
           "valorFixo": 31.50,

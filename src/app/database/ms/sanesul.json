@@ -3,7 +3,7 @@
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "municipios": [
+      "listaDeMunicipios": [
         "Alcinópolis",
         "Amambai",
         "Anastácio",
@@ -129,7 +129,7 @@
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "municipios": [
+      "listaDeMunicipios": [
         "Água Clara",
         "Bataguassu",
         "Brasilândia",
@@ -200,7 +200,7 @@
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "municipios": [
+      "listaDeMunicipios": [
         "Três Lagoas"
       ],
       "categorias": {
@@ -267,7 +267,7 @@
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "municipios": [
+      "listaDeMunicipios": [
         "Coxim"
       ],
       "categorias": {
@@ -334,7 +334,7 @@
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "municipios": [
+      "listaDeMunicipios": [
         "Aparecida do Taboado"
       ],
       "categorias": {
@@ -401,7 +401,7 @@
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "municipios": [
+      "listaDeMunicipios": [
         "Ladário"
       ],
       "categorias": {
@@ -467,3 +467,4 @@
     }
   ]
 }
+>>>>>>> 7fb6abe8028aa503328ffdf6346b08ba52128e48

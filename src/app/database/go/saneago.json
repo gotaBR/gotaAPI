@@ -1,11 +1,9 @@
 {
-    "saneago": [
+    "empresa": [
         {
             "ultimaModificacao": "01-07-2019",
             "validoAte": "indefinido",
-            "listaDeMunicipios": [
-                "todos"
-            ],
+            "listaDeMunicipios": "todos",
             "categorias": {
                 "residencialSocial": {
                     "categoria": "Residencial Social",

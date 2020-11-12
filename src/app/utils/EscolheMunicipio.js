@@ -8,7 +8,7 @@ function EscolheMunicipio(dados, municipio) {
   for (let i = 0; i < quantidadeDeTarifas; i += 1) {
     const contemMunicipio = dados.empresa[i].listaDeMunicipios.indexOf(municipio);
 
-    if (contemMunicipio > 1) {
+    if (contemMunicipio > -1) {
       return dados.empresa[i];
     }
   }

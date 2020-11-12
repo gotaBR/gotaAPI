@@ -8,16 +8,17 @@ module.exports = {
     const {
       uf, empresa, municipio, categoria, consumo,
     } = request.params;
+
     const dados = await require(`../database/${uf}/${empresa}.json`);
 
     const municipioTratado = TrataString(municipio);
     const categoriaTratada = TrataString(categoria);
 
     const dadosDoMunicipio = EscolheMunicipio(dados, municipioTratado);
-    const dadosDaCategoria = EscolheCategoria(dadosDoMunicipio, categoria);
+    const dadosDaCategoria = EscolheCategoria(dadosDoMunicipio, categoriaTratada);
 
-    // const tarifaCalculada = await CalculaTarifa(dadosDaCategoria, consumo);
+    const tarifaCalculada = await CalculaTarifa(dadosDaCategoria, consumo);
 
-    // return response.status(200).json(tarifaCalculada);
+    return response.status(200).json(tarifaCalculada);
   },
 };

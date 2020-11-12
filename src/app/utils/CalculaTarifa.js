@@ -1,9 +1,9 @@
 // Função que calcula tarifa.
 function CalculaTarifa(dados, consumo) {
-  const { valorFixo } = dados.categorias.residencialPadrao;
-  const { aliquotas } = dados.categorias.residencialPadrao;
+  const { valorFixo } = dados;
+  const { aliquotas } = dados;
   const quantidadeDeAliquotas = aliquotas.length;
-  const { faixasDeConsumo } = dados.categorias.residencialPadrao;
+  const { faixasDeConsumo } = dados;
   const quantidadeDeFaixas = faixasDeConsumo.length;
   let faixaAtual = 0;
 

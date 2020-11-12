@@ -1,0 +1,43 @@
+{
+    "empresa":[
+        {
+            "ultimaModificacao": "02-01-2018",
+            "validoAte": "indefinido",
+            "listaDeMunicipios":["Lucas do Rio Verde"],
+            "categorias":{
+                
+                  "residencial": {
+                    "categoria": "Residencial",
+                    "faixasDeConsumo": [0, 10, 20, 25, 35, 50, 9999],
+                    "valorFixo": 0.0,
+                    "aliquotas": [1,67, 2.13, 2.83, 4.07, 4.79, 5.59]
+                  },
+                  "residencialSocial": {
+                    "categoria": "Residencial Social",
+                    "faixasDeConsumo": [0, 10, 20, 25, 30, 40, 50, 9999],
+                    "valorFixo": 0.0,
+                    "aliquotas": [1.00, 1.50, 2.27, 3.26, 2.85, 4.79, 5.59]
+                  },
+                  "comercial": {
+                    "categoria": "Comercial",
+                    "faixasDeConsumo": [0, 10, 20, 25, 35, 50, 9999],
+                    "valorFixo": 0.0,
+                    "aliquotas": [3.81, 5.26, 6.20, 6.22, 6.24, 6.25]
+                  },
+                  "industrial": {
+                    "categoria": "Industrial",
+                    "faixasDeConsumo": [0, 10, 20, 25, 35, 50, 9999],
+                    "valorFixo": 0.0,
+                    "aliquotas": [3.77, 5.26, 6.41, 6.42, 6.43, 6.44]
+                  },
+                  "publica": {
+                    "categoria": "Pública",
+                    "faixasDeConsumo": [0, 10, 20, 25, 35, 50],
+                    "valorFixo": 0.0,
+                    "aliquotas": [4,75, 6.65, 7.44, 7.61, 7.62, 7.63]
+                  }
+                  
+            }
+        }
+    ]
+}

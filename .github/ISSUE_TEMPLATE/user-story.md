@@ -2,8 +2,8 @@
 name: User Story
 about: User Story template.
 title: ''
-labels: ''
-assignees: ''
+labels: UserStory
+assignees: gabriel-paiva
 
 ---
 

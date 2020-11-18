@@ -1,0 +1,416 @@
+{
+  "empresa": [
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Cuiabá"
+      ],
+      "categorias": {
+        "residencialSocial": {
+          "categoria": "Residencial Social",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            50
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.63,
+            4,
+            6.68,
+            8.18,
+            10.83
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            50
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.26,
+            4,
+            6.68,
+            8.18,
+            10.83
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            50
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.08,
+            7.68,
+            7.68,
+            7.68,
+            7.68
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            50
+          ],
+          "valorFixo": 0,
+          "aliquotas": [
+            5.96,
+            8.85,
+            8.85,
+            8.85,
+            8.85
+          ]
+        },
+        "poderPublico": {
+          "categoria": "Poder Público",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            50
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.38,
+            10.46,
+            10.46,
+            10.46,
+            10.46
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Alta Floresta"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.62,
+            3.94,
+            6.56,
+            8.66,
+            13.91
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.04,
+            9.19
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0,
+          "aliquotas": [
+            7.09,
+            10.50
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.56,
+            9.97
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Colíder"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.23,
+            3.34,
+            5.57,
+            7.36,
+            11.82
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.13,
+            7.80
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0,
+          "aliquotas": [
+            6.01,
+            8.91
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.57,
+            8.47
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Comodoro"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.7,
+            4.69,
+            6.79,
+            9.49,
+            15.18
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.2,
+            9.71
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0,
+          "aliquotas": [
+            7.28,
+            10.78
+          ]
+        },
+        "poderPublico": {
+          "categoria": "Poder Público",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.79,
+            12.27
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Pontes E Lacerda"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.33,
+            3.5,
+            5.83,
+            7.69,
+            12.35
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.36,
+            8.16
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0,
+          "aliquotas": [
+            6.29,
+            9.32
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.83,
+            8.86
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Canarana"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            30,
+            50
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.57,
+            3.85,
+            6.42,
+            8.47
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.6,
+            5.39
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0,
+          "aliquotas": [
+            4.21,
+            6.25
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.09,
+            6.66
+          ]
+        }
+      }
+    }
+  ]
+}

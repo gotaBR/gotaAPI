@@ -1,0 +1,82 @@
+{
+  "empresa": [
+    {
+      "ultimaModificacao": "01-01-2020",
+      "validoAte": "indefinido",
+      "municipios": [
+        "campo-grande"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            20
+          ],
+          "valorFixo": 5.80,
+          "aliquotasAgua": [
+            2.35
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            15,
+            20,
+            25,
+            30,
+            50
+          ],
+          "valorFixo": 12.79,
+          "aliquotas": [
+            5.16,
+            6.61,
+            6.74,
+            7.43,
+            9.15,
+            10.97,
+            12.07
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 19.39,
+          "aliquotas": [
+            7.12,
+            14.60
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 30.48,
+          "aliquotas": [
+            11.14,
+            21.44
+          ]
+        },
+        "poderPublico": {
+          "categoria": "Poder Público",
+          "faixasDeConsumo": [
+            0,
+            20
+          ],
+          "valorFixo": 64.70,
+          "aliquotas": [
+            6.49,
+            26.87
+          ]
+        }
+      }
+    }
+  ]
+}

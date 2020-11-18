@@ -1,0 +1,1620 @@
+{
+  "empresa": [
+    {
+      "ultimaModificacao": "01-05-2018",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Barra do Garças"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            15
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.35
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.68,
+            4.04,
+            6.72,
+            8.86,
+            14.23
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.29,
+            9.40
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.15,
+            11.61
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.36,
+            10.91
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-11-2019",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Campo Verde"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            10,
+            15,
+            20
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.85,
+            3.25,
+            3.71
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.09,
+            4.64,
+            7.73,
+            10.20,
+            16.38
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.11,
+            10.82
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.73,
+            11.74
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            8.34,
+            12.36
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-04-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Carlinda"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.60,
+            3.90,
+            6.50,
+            9.75,
+            15.31
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.06,
+            9.10
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.89,
+            11.23
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.10,
+            10.53
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-04-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Cláudia"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.01,
+            3.02,
+            5.03,
+            7.54,
+            11.84
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.68,
+            7.04
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.33,
+            8.68
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.49,
+            8.14
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-02-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Confresa"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.45,
+            4.60,
+            5.75,
+            6.90
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.75,
+            6.90,
+            9.20
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.75,
+            6.90,
+            9.20
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            10.73,
+            12.46,
+            14.18
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Diamantino"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.43,
+            2.17,
+            3.59,
+            4.42
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.85,
+            4.3,
+            7.15,
+            8.84
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.39,
+            8.84
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.89,
+            12.85
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.39,
+            8.84
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-06-2019",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Guarantã"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.49,
+            3.74,
+            5.23,
+            6.80
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.80,
+            8.72
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.60,
+            10.76
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.8,
+            10.08
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-08-2019",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Jangada"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.56,
+            3.84,
+            6.4,
+            8.45,
+            13.57
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.89,
+            8.96
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.40,
+            9.73
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.91,
+            10.24
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Jauru"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.38
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.75,
+            3.08,
+            5.17,
+            6.82,
+            10.97
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.41,
+            7.23
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.29,
+            11.19
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.56,
+            8.94
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-08-2019",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Marcelândia"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.08,
+            3.12,
+            5.20,
+            6.86,
+            11.02
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.78,
+            7.28
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.20,
+            7.90
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.62,
+            8.32
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-06-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Matupá"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.84,
+            4.26,
+            7.10,
+            10.65,
+            16.73
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.62,
+            9.94
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.53,
+            12.27
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.75,
+            11.50
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-03-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Nortelândia"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.00,
+            4.50,
+            7.50,
+            9.90,
+            15.50
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.90,
+            10.50
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.50,
+            11.40
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            8.10,
+            12.00
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-06-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Paranatinga"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            10,
+            15,
+            20
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.48,
+            3.53,
+            4.03
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.13,
+            5.04,
+            5.78,
+            7.02,
+            7.02
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.13,
+            5.78
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.78,
+            8.47
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.50,
+            6.65
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-02-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Pedra Preta"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.38
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.72,
+            2.58,
+            4.30,
+            5.68,
+            8.03
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.41,
+            3.61
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.82,
+            4.18
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.73,
+            4.44
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-12-2015",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Peixoto de Azevedo"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.37,
+            3.57,
+            5.95,
+            7.84,
+            12.57
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.45,
+            8.34
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.95,
+            9.02
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.41,
+            9.50
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-08-2019",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Poconé"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.24,
+            3.36,
+            5.60,
+            7.39,
+            10.46
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.14,
+            4.70
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.56,
+            5.78
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.67,
+            5.44
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-02-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Porto Esperidião"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.43
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.86,
+            4.29,
+            7.15,
+            9.44,
+            15.16
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.67,
+            10.01
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.56,
+            12.08
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.82,
+            11.73
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2017",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Primavera"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.85,
+            4.28,
+            7.13,
+            9.42,
+            13.31
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.98,
+            5.99
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.52,
+            7.38
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.68,
+            6.91
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-02-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Santa Carmem"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.16,
+            3.24,
+            5.40,
+            7.13,
+            11.45
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.97,
+            7.56
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.40,
+            8.21
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.83,
+            8.64
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-05-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "São José"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.51,
+            3.77,
+            6.28,
+            8.28,
+            10.04
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.51,
+            5.27
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.12,
+            6.10
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.99,
+            6.48
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-01-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Sinop"
+      ],
+      "categorias": {
+        "tarifaSocial": {
+          "categoria": "Tarifa Social",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            1.722,
+            4.890,
+            8.197,
+            10.263
+          ]
+        },
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            3.444,
+            4.890,
+            8.197,
+            10.263
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.026,
+            11.675
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            10.263,
+            16.841
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.026,
+            11.675
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-12-2019",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Sorriso"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.432,
+            3.648,
+            6.080,
+            9.120,
+            14.324
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            5.667,
+            8.512
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.445,
+            10.506
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.639,
+            9.850
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-12-2019",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "União do Sul"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.77,
+            4.16,
+            6.93,
+            9.14,
+            14.68
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.37,
+            9.70
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            6.93,
+            10.53
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            7.48,
+            11.08
+          ]
+        }
+      }
+    },
+    {
+      "ultimaModificacao": "01-06-2020",
+      "validoAte": "indefinido",
+      "listaDeMunicipios": [
+        "Vera"
+      ],
+      "categorias": {
+        "residencial": {
+          "categoria": "Residencial",
+          "faixasDeConsumo": [
+            0,
+            10,
+            20,
+            30,
+            40
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            2.070,
+            3.110,
+            5.180,
+            6.830,
+            10.970
+          ]
+        },
+        "comercial": {
+          "categoria": "Comercial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.760,
+            7.250
+          ]
+        },
+        "publica": {
+          "categoria": "Pública",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.760,
+            7.250
+          ]
+        },
+        "industrial": {
+          "categoria": "Industrial",
+          "faixasDeConsumo": [
+            0,
+            10
+          ],
+          "valorFixo": 0.0,
+          "aliquotas": [
+            4.760,
+            7.250
+          ]
+        }
+      }
+    }
+  ]
+}

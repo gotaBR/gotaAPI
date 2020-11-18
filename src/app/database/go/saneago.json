@@ -1,0 +1,103 @@
+{
+    "empresa": [
+        {
+            "ultimaModificacao": "01-07-2019",
+            "validoAte": "indefinido",
+            "listaDeMunicipios": "todos",
+            "categorias": {
+                "residencialSocial": {
+                    "categoria": "Residencial Social",
+                    "faixasDeConsumo": [
+                        1,
+                        10,
+                        15,
+                        20
+                    ],
+                    "valorFixo": 6.36,
+                    "aliquotas": [
+                        2.10,
+                        2.37,
+                        2.71
+                    ]
+                },
+                "residencialNormal": {
+                    "categoria": "Residencial Normal",
+                    "faixasDeConsumo": [
+                        1,
+                        10,
+                        15,
+                        20,
+                        25,
+                        30,
+                        40,
+                        50
+                    ],
+                    "valorFixo": 13.45,
+                    "aliquotas": [
+                        4.44,
+                        5.03,
+                        5.74,
+                        6.52,
+                        7.36,
+                        8.40,
+                        9.50,
+                        10.83
+                    ]
+                },
+                "pública": {
+                    "categoria": "Pública",
+                    "faixasDeConsumo": [
+                        1,
+                        10
+                    ],
+                    "valorFixo": 13.45,
+                    "aliquotas": [
+                        8.40,
+                        9.50
+                    ]
+                },
+                "industrial": {
+                    "categoria": "Industrial",
+                    "faixasDeConsumo": [
+                        1,
+                        10
+                    ],
+                    "valorFixo": 13.45,
+                    "aliquotas": [
+                        9.50,
+                        10.83
+                    ]
+                },
+                "comercial1": {
+                    "categoria": "Comercial I",
+                    "faixasDeConsumo": [
+                        1,
+                        10,
+                        15,
+                        20,
+                        25,
+                        30,
+                        40,
+                        41
+                    ],
+                    "valorFixo": 13.45,
+                    "aliquotas": [
+                        9.50,
+                        10.83
+                    ]
+                },
+                "comercial2": {
+                    "categoria": "Comercial II",
+                    "faixasDeConsumo": [
+                        1,
+                        10
+                    ],
+                    "valorFixo": 6.72,
+                    "aliquotas": [
+                        4.75
+                    ]
+                }
+            }
+        }
+    ]
+}

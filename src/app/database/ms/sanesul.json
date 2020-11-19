@@ -1,9 +1,85 @@
 {
-  "empresa": [
+  "listaDeMunicipios": [
+    "Alcinópolis",
+    "Amambai",
+    "Anastácio",
+    "Anaurilândia",
+    "Angélica",
+    "Antônio João",
+    "Aquidauana",
+    "Aral Moreira",
+    "Batayporã",
+    "Bodoquena",
+    "Bonito",
+    "Caarapó",
+    "Camapuã",
+    "Caracol",
+    "Chapadão do Sul",
+    "Coronel Sapucaia",
+    "Corumbá",
+    "Deodápolis",
+    "Dois Irmãos do Buriti",
+    "Douradina",
+    "Dourados",
+    "Eldorado",
+    "Fátima do Sul",
+    "Figueirão",
+    "Guia Lopes da Laguna",
+    "Iguatemi",
+    "Inocência",
+    "Itaporã",
+    "Itaquiraí",
+    "Ivinhema",
+    "Japorã",
+    "Jardim",
+    "Jateí",
+    "Juti",
+    "Laguna Carapã",
+    "Maracaju",
+    "Miranda",
+    "Mundo Novo",
+    "Naviraí",
+    "Nioaque",
+    "Nova Alvorada do Sul",
+    "Nova Andradina",
+    "Novo Horizote do Sul",
+    "Paranaíba",
+    "Paranhos",
+    "Pedro Gomes",
+    "Ponta Porã",
+    "Porto Murtinho",
+    "Ribas do Rio Pardo",
+    "Rio Brilhante",
+    "Rio Negro",
+    "Rio Verde de Mato Gross",
+    "Sete Quedas",
+    "Sidrolândia",
+    "Sonora",
+    "Tacuru",
+    "Taquarussu",
+    "Terenos",
+    "Vicentina",
+    "Água Clara",
+    "Bataguassu",
+    "Brasilândia",
+    "Santa Rita do Pardo",
+    "Selvíria",
+    "Três Lagoas",
+    "Coxim",
+    "Aparecida do Taboado",
+    "Ladário"
+  ],
+  "listaDeCategorias": [
+    "Residencial",
+    "Comercial",
+    "Industrial",
+    "Poder Público"
+  ],
+  "tarifas": [
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "listaDeMunicipios": [
+      "municipios": [
         "Alcinópolis",
         "Amambai",
         "Anastácio",
@@ -12,7 +88,7 @@
         "Antônio João",
         "Aquidauana",
         "Aral Moreira",
-        " Batayporã",
+        "Batayporã",
         "Bodoquena",
         "Bonito",
         "Caarapó",
@@ -64,9 +140,9 @@
         "Terenos",
         "Vicentina"
       ],
-      "categorias": {
-        "residencial": {
-          "categoria": "Residencial",
+      "categorias": [
+        {
+          "nomeDaCategoria": "Residencial",
           "faixasDeConsumo": [
             0,
             10,
@@ -87,8 +163,8 @@
             11.02
           ]
         },
-        "comercial": {
-          "categoria": "Comercial",
+        {
+          "nomeDaCategoria": "Comercial",
           "faixasDeConsumo": [
             0,
             10
@@ -99,8 +175,8 @@
             13.30
           ]
         },
-        "industrial": {
-          "categoria": "Industrial",
+        {
+          "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
             0,
             10
@@ -111,8 +187,8 @@
             19.42
           ]
         },
-        "poderPublico": {
-          "categoria": "Poder Público",
+        {
+          "nomeDaCategoria": "Poder Público",
           "faixasDeConsumo": [
             0,
             20
@@ -124,21 +200,21 @@
             15
           ]
         }
-      }
+      ]
     },
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "listaDeMunicipios": [
+      "municipios": [
         "Água Clara",
         "Bataguassu",
         "Brasilândia",
         "Santa Rita do Pardo",
         "Selvíria"
       ],
-      "categorias": {
-        "residencial": {
-          "categoria": "Residencial",
+      "categorias": [
+        {
+          "nomeDaCategoria": "Residencial",
           "faixasDeConsumo": [
             0,
             10,
@@ -159,8 +235,8 @@
             8.55
           ]
         },
-        "comercial": {
-          "categoria": "Comercial",
+        {
+          "nomeDaCategoria": "Comercial",
           "faixasDeConsumo": [
             0,
             10
@@ -171,8 +247,8 @@
             11.83
           ]
         },
-        "industrial": {
-          "categoria": "Industrial",
+        {
+          "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
             0,
             10
@@ -183,8 +259,8 @@
             17.58
           ]
         },
-        "poderPublico": {
-          "categoria": "Poder Público",
+        {
+          "nomeDaCategoria": "Poder Público",
           "faixasDeConsumo": [
             0,
             20
@@ -195,17 +271,17 @@
             23.31
           ]
         }
-      }
+      ]
     },
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "listaDeMunicipios": [
+      "municipios": [
         "Três Lagoas"
       ],
-      "categorias": {
-        "residencial": {
-          "categoria": "Residencial",
+      "categorias": [
+        {
+          "nomeDaCategoria": "Residencial",
           "faixasDeConsumo": [
             0,
             10,
@@ -226,8 +302,8 @@
             8.65
           ]
         },
-        "comercial": {
-          "categoria": "Comercial",
+        {
+          "nomeDaCategoria": "Comercial",
           "faixasDeConsumo": [
             0,
             10
@@ -238,8 +314,8 @@
             11.95
           ]
         },
-        "industrial": {
-          "categoria": "Industrial",
+        {
+          "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
             0,
             10
@@ -250,8 +326,8 @@
             17.75
           ]
         },
-        "poderPublico": {
-          "categoria": "Poder Público",
+        {
+          "nomeDaCategoria": "Poder Público",
           "faixasDeConsumo": [
             0,
             20
@@ -262,17 +338,17 @@
             23.53
           ]
         }
-      }
+      ]
     },
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "listaDeMunicipios": [
+      "municipios": [
         "Coxim"
       ],
-      "categorias": {
-        "residencial": {
-          "categoria": "Residencial",
+      "categorias": [
+        {
+          "nomeDaCategoria": "Residencial",
           "faixasDeConsumo": [
             0,
             10,
@@ -293,8 +369,8 @@
             11.02
           ]
         },
-        "comercial": {
-          "categoria": "Comercial",
+        {
+          "nomeDaCategoria": "Comercial",
           "faixasDeConsumo": [
             0,
             10
@@ -305,8 +381,8 @@
             13.30
           ]
         },
-        "industrial": {
-          "categoria": "Industrial",
+        {
+          "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
             0,
             10
@@ -317,8 +393,8 @@
             19.42
           ]
         },
-        "poderPublico": {
-          "categoria": "Poder Público",
+        {
+          "nomeDaCategoria": "Poder Público",
           "faixasDeConsumo": [
             0,
             20
@@ -329,17 +405,17 @@
             27.15
           ]
         }
-      }
+      ]
     },
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "listaDeMunicipios": [
+      "municipios": [
         "Aparecida do Taboado"
       ],
-      "categorias": {
-        "residencial": {
-          "categoria": "Residencial",
+      "categorias": [
+        {
+          "nomeDaCategoria": "Residencial",
           "faixasDeConsumo": [
             0,
             10,
@@ -360,8 +436,8 @@
             11.02
           ]
         },
-        "comercial": {
-          "categoria": "Comercial",
+        {
+          "nomeDaCategoria": "Comercial",
           "faixasDeConsumo": [
             0,
             10
@@ -372,8 +448,8 @@
             13.30
           ]
         },
-        "industrial": {
-          "categoria": "Industrial",
+        {
+          "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
             0,
             10
@@ -384,8 +460,8 @@
             19.42
           ]
         },
-        "poderPublico": {
-          "categoria": "Poder Público",
+        {
+          "nomeDaCategoria": "Poder Público",
           "faixasDeConsumo": [
             0,
             20
@@ -396,17 +472,17 @@
             27.15
           ]
         }
-      }
+      ]
     },
     {
       "ultimaModificacao": "01-09-2020",
       "validoAte": "30-06-2021",
-      "listaDeMunicipios": [
+      "municipios": [
         "Ladário"
       ],
-      "categorias": {
-        "residencial": {
-          "categoria": "Residencial",
+      "categorias": [
+        {
+          "nomeDaCategoria": "Residencial",
           "faixasDeConsumo": [
             0,
             10,
@@ -427,8 +503,8 @@
             11.02
           ]
         },
-        "comercial": {
-          "categoria": "Comercial",
+        {
+          "nomeDaCategoria": "Comercial",
           "faixasDeConsumo": [
             0,
             10
@@ -439,8 +515,8 @@
             13.30
           ]
         },
-        "industrial": {
-          "categoria": "Industrial",
+        {
+          "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
             0,
             10
@@ -451,8 +527,8 @@
             19.42
           ]
         },
-        "poderPublico": {
-          "categoria": "Poder Público",
+        {
+          "nomeDaCategoria": "Poder Público",
           "faixasDeConsumo": [
             0,
             20
@@ -463,7 +539,7 @@
             27.15
           ]
         }
-      }
+      ]
     }
   ]
 }

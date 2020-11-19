@@ -1,14 +1,24 @@
 {
+  "listaDeMunicipios": [
+    "Campo Grande"
+  ],
+  "listaDeCategorias": [
+    "Social",
+    "Residencial",
+    "Comercial",
+    "Industrial",
+    "Poder Público"
+  ],
   "empresa": [
     {
       "ultimaModificacao": "01-01-2020",
       "validoAte": "indefinido",
       "municipios": [
-        "campo-grande"
+        "Campo Grande"
       ],
-      "categorias": {
-        "tarifaSocial": {
-          "categoria": "Tarifa Social",
+      "categorias": [
+        {
+          "nomeDaCategoria": "Social",
           "faixasDeConsumo": [
             0,
             20
@@ -18,8 +28,8 @@
             2.35
           ]
         },
-        "residencial": {
-          "categoria": "Residencial",
+        {
+          "nomeDaCategoria": "Residencial",
           "faixasDeConsumo": [
             0,
             10,
@@ -40,8 +50,8 @@
             12.07
           ]
         },
-        "comercial": {
-          "categoria": "Comercial",
+        {
+          "nomeDaCategoria": "Comercial",
           "faixasDeConsumo": [
             0,
             10
@@ -52,8 +62,8 @@
             14.60
           ]
         },
-        "industrial": {
-          "categoria": "Industrial",
+        {
+          "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
             0,
             10
@@ -64,8 +74,8 @@
             21.44
           ]
         },
-        "poderPublico": {
-          "categoria": "Poder Público",
+        {
+          "nomeDaCategoria": "Poder Público",
           "faixasDeConsumo": [
             0,
             20
@@ -76,7 +86,7 @@
             26.87
           ]
         }
-      }
+      ]
     }
   ]
 }

@@ -1,7 +1,10 @@
+const TrataString = require('../utils/TrataString');
+
 module.exports = {
   async show(request, response) {
-    const { uf, empresa } = { uf: 'ms', empresa: 'sanesul' };
-    const dados = await require(`../database/${uf}/${empresa}.json`);
+    const { uf, empresa } = request.params;
+    const nomeTratado = TrataString(empresa);
+    const dados = await require(`../database/${uf}/${nomeTratado}.json`);
 
     return response.status(200).json(dados);
   },

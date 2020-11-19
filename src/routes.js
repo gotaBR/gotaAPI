@@ -5,7 +5,7 @@ const CalculatorController = require('./app/controllers/CalculatorController');
 
 const router = Router();
 
-router.get('/', CompanyController.show);
+router.get('/:uf/:empresa', CompanyController.show);
 router.get('/calculator/:uf/:empresa/:municipio/:categoria/:consumo', CalculatorController.show);
 
 module.exports = router;

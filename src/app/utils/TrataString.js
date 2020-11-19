@@ -1,9 +1,7 @@
 function TrataString(string) {
-  let novaString = string.replace(/-/g, ' ');
+  let novaString = string.replace(/\s/g, '');
 
-  const capitalize = (str, lower = false) => (lower ? str.toLowerCase() : str).replace(/(?:^|\s|["'([{])+\S/g, (match) => match.toUpperCase());
-
-  novaString = capitalize(novaString);
+  novaString = novaString.normalize('NFD').replace(/[^a-zA-Zs ]/g, '');
 
   return novaString;
 }

@@ -18,7 +18,7 @@
       ],
       "categorias": [
         {
-          "categoria": "Social",
+          "nomeDaCategoria": "Social",
           "faixasDeConsumo": [
             0,
             20
@@ -29,7 +29,7 @@
           ]
         },
         {
-          "categoria": "Residencial",
+          "nomeDaCategoria": "Residencial",
           "faixasDeConsumo": [
             0,
             10,
@@ -51,7 +51,7 @@
           ]
         },
         {
-          "categoria": "Comercial",
+          "nomeDaCategoria": "Comercial",
           "faixasDeConsumo": [
             0,
             10
@@ -63,7 +63,7 @@
           ]
         },
         {
-          "categoria": "Industrial",
+          "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
             0,
             10
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "categoria": "Poder Público",
+          "nomeDaCategoria": "Poder Público",
           "faixasDeConsumo": [
             0,
             20

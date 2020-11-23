@@ -27,7 +27,12 @@
             20
           ],
           "valorFixo": 6.36,
-          "aliquotas": [
+          "aliquotasAgua": [
+            2.10,
+            2.37,
+            2.71
+          ],
+          "aliquotasEsgoto": [
             2.10,
             2.37,
             2.71
@@ -46,7 +51,7 @@
             50
           ],
           "valorFixo": 13.45,
-          "aliquotas": [
+          "aliquotasAgua": [
             4.44,
             5.03,
             5.74,
@@ -55,6 +60,16 @@
             8.40,
             9.50,
             10.83
+          ],
+          "aliquotasEsgoto": [
+            4.44,
+            5.03,
+            5.75,
+            6.51,
+            7.36,
+            8.40,
+            9.50,
+            10.84
           ]
         },
         {
@@ -64,7 +79,11 @@
             10
           ],
           "valorFixo": 13.45,
-          "aliquotas": [
+          "aliquotasAgua": [
+            8.40,
+            9.50
+          ],
+          "aliquotasEsgoto": [
             8.40,
             9.50
           ]
@@ -76,9 +95,13 @@
             10
           ],
           "valorFixo": 13.45,
-          "aliquotas": [
+          "aliquotasAgua": [
             9.50,
             10.83
+          ],
+          "aliquotasEsgoto": [
+            9.50,
+            10.84
           ]
         },
         {
@@ -94,9 +117,13 @@
             41
           ],
           "valorFixo": 13.45,
-          "aliquotas": [
+          "aliquotasAgua": [
             9.50,
             10.83
+          ],
+          "aliquotasEsgoto": [
+            9.50,
+            10.84
           ]
         },
         {
@@ -106,7 +133,10 @@
             10
           ],
           "valorFixo": 6.72,
-          "aliquotas": [
+          "aliquotasAgua": [
+            4.75
+          ],
+          "aliquotasEsgoto": [
             4.75
           ]
         }

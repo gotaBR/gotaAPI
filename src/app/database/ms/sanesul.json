@@ -152,7 +152,8 @@
             30,
             50
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             4.71,
             6.04,
@@ -178,7 +179,8 @@
             0,
             10
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             6.41,
             13.30
@@ -194,7 +196,8 @@
             0,
             10
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             10.07,
             19.42
@@ -210,7 +213,8 @@
             0,
             20
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             6.53,
             27.15
@@ -244,7 +248,8 @@
             30,
             50
           ],
-          "valorFixo": 8.65,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 8.65,
           "aliquotasAgua": [
             4.41,
             5.57,
@@ -270,7 +275,8 @@
             0,
             10
           ],
-          "valorFixo": 8.65,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 8.65,
           "aliquotasAgua": [
             5.46,
             11.83
@@ -286,7 +292,8 @@
             0,
             10
           ],
-          "valorFixo": 8.65,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 8.65,
           "aliquotasAgua": [
             8.24,
             17.58
@@ -302,7 +309,8 @@
             0,
             20
           ],
-          "valorFixo": 8.65,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 8.65,
           "aliquotasAgua": [
             5.71,
             23.31
@@ -332,7 +340,8 @@
             30,
             50
           ],
-          "valorFixo": 4.35,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 4.35,
           "aliquotasAgua": [
             4.46,
             5.64,
@@ -358,7 +367,8 @@
             0,
             10
           ],
-          "valorFixo": 4.35,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 4.35,
           "aliquotasAgua": [
             5.53,
             11.95
@@ -374,7 +384,8 @@
             0,
             10
           ],
-          "valorFixo": 4.35,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 4.35,
           "aliquotasAgua": [
             8.32,
             17.75
@@ -390,7 +401,8 @@
             0,
             20
           ],
-          "valorFixo": 4.35,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 4.35,
           "aliquotasAgua": [
             5.76,
             23.53
@@ -420,7 +432,8 @@
             30,
             50
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             4.71,
             6.04,
@@ -446,7 +459,8 @@
             0,
             10
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             6.41,
             13.30
@@ -462,7 +476,8 @@
             0,
             10
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             10.07,
             19.42
@@ -478,7 +493,8 @@
             0,
             20
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             6.52,
             27.15
@@ -508,7 +524,8 @@
             30,
             50
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             4.71,
             6.04,
@@ -534,7 +551,8 @@
             0,
             10
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             6.41,
             13.30
@@ -550,7 +568,8 @@
             0,
             10
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             10.07,
             19.42
@@ -566,7 +585,8 @@
             0,
             20
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             6.52,
             27.15
@@ -596,7 +616,8 @@
             30,
             50
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             4.71,
             6.04,
@@ -622,7 +643,8 @@
             0,
             10
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             6.41,
             13.30
@@ -638,7 +660,8 @@
             0,
             10
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             10.07,
             19.42
@@ -654,7 +677,8 @@
             0,
             20
           ],
-          "valorFixo": 0.0,
+          "valorFixoEsgoto": 0.0,
+          "valorFixoAgua": 0.0,
           "aliquotasAgua": [
             6.52,
             27.15

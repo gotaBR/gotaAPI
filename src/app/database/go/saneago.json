@@ -21,7 +21,7 @@
         {
           "nomeDaCategoria": "Residencial Social",
           "faixasDeConsumo": [
-            1,
+            0,
             10,
             15,
             20
@@ -30,18 +30,20 @@
           "aliquotasAgua": [
             2.10,
             2.37,
+            2.71,
             2.71
           ],
           "aliquotasEsgoto": [
             2.10,
             2.37,
+            2.71,
             2.71
           ]
         },
         {
           "nomeDaCategoria": "Residencial Normal",
           "faixasDeConsumo": [
-            1,
+            0,
             10,
             15,
             20,
@@ -75,7 +77,7 @@
         {
           "nomeDaCategoria": "Pública",
           "faixasDeConsumo": [
-            1,
+            0,
             10
           ],
           "valorFixo": 13.45,
@@ -91,7 +93,7 @@
         {
           "nomeDaCategoria": "Industrial",
           "faixasDeConsumo": [
-            1,
+            0,
             10
           ],
           "valorFixo": 13.45,
@@ -107,14 +109,8 @@
         {
           "nomeDaCategoria": "Comercial I",
           "faixasDeConsumo": [
-            1,
-            10,
-            15,
-            20,
-            25,
-            30,
-            40,
-            41
+            0,
+            10
           ],
           "valorFixo": 13.45,
           "aliquotasAgua": [
@@ -129,14 +125,16 @@
         {
           "nomeDaCategoria": "Comercial II",
           "faixasDeConsumo": [
-            1,
+            0,
             10
           ],
           "valorFixo": 6.72,
           "aliquotasAgua": [
+            4.75,
             4.75
           ],
           "aliquotasEsgoto": [
+            4.75,
             4.75
           ]
         }

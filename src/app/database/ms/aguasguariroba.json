@@ -25,9 +25,11 @@
           ],
           "valorFixo": 5.80,
           "aliquotasAgua": [
+            2.35,
             2.35
           ],
           "aliquotasEsgoto": [
+            1.65,
             1.65
           ]
         },

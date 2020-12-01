@@ -24,6 +24,7 @@
             20
           ],
           "valorFixoAgua": 5.80,
+          "valorFixoEsgoto": 0,
           "aliquotasAgua": [
             2.35,
             2.35
@@ -45,6 +46,7 @@
             50
           ],
           "valorFixoAgua": 12.79,
+          "valorFixoEsgoto": 0,
           "aliquotasAgua": [
             5.16,
             6.61,
@@ -71,6 +73,7 @@
             10
           ],
           "valorFixoAgua": 19.39,
+          "valorFixoEsgoto": 0,
           "aliquotasAgua": [
             7.12,
             14.60
@@ -87,6 +90,7 @@
             10
           ],
           "valorFixoAgua": 30.48,
+          "valorFixoEsgoto": 0,
           "aliquotasAgua": [
             11.14,
             21.44
@@ -103,6 +107,7 @@
             20
           ],
           "valorFixoAgua": 64.70,
+          "valorFixoEsgoto": 0,
           "aliquotasAgua": [
             6.49,
             26.87
